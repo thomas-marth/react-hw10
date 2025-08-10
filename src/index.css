@@ -6,15 +6,8 @@
   box-sizing: border-box;
 }
 
-.container {
-  margin: 0 auto;
-  padding-right: 15px;
-  padding-left: 15px;
-  max-width: 1440px;
-}
-
-li {
-  list-style: none;
+body {
+  background-color: #e0e0e0;
 }
 
 a {
@@ -23,4 +16,8 @@ a {
   font-weight: normal;
   background: none;
   border: none;
+}
+
+li {
+  list-style: none;
 }
